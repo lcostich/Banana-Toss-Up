@@ -14,6 +14,6 @@
  The AppLab is great resource for both beginning and more advanced students who want to develop smaller projects with the help of the design tools within the AppLab. 
  
 ## So, What's In Here?
- Within this repository, you will find the exported JavaScript file, as well as the other files necessary to run Banana Toss Up within the AppLab. A full explanation can be found [here](/Banana Toss Up/README.txt), in the automatically-created AppLab README.
+ Within this repository, you will find the exported JavaScript file, as well as the other files necessary to run Banana Toss Up within the AppLab. A full explanation can be found [here](Banana Toss Up/README.txt), in the automatically-created AppLab README.
  
  To see the game in action and play it within your own browser, you can click [here](https://studio.code.org/projects/applab/NXbsF2gyRSbJWUAJAWE34mYBa0McNRx_pbQ2xe6MYYQ) to play the game within the AppLab.
