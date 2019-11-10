@@ -3,7 +3,7 @@
  
  by Lee Costich, 2018
  
-<img src="./bananatossup_ex.PNG">
+<img align="center" src="./bananatossup_ex.PNG">
  
  The purpose of this program is to be a simple game for people to play. To play the game, you must use the left and right arrow keys to move a gorilla at the bottom of the screen left or right, in order to block a moving banana from hitting the bottom of the screen. If it hits the bottom, the user will lose a life, losing the game after the loss of the last life. If the banana hits the basket, the user gains a point, and the speed of the banana increases. This [video](bananatossup.mp4) illustrates myself playing the game and scoring points, displaying how the objects move on the screen. I then intentionally let the banana hit the bottom of the screen a few times, losing the game.
  
